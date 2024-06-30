@@ -1,14 +1,36 @@
 # Mainflow
-# Project Tree
+# My Awesome Project
 
-- tree-md
-- dir2
-  - Mini PROJECT 1 mainflow.ipynb
-  - Task2 mainflow.ipynb
-  - Task3 mainflow.ipynb
-- dir1
-  - file11.ext
-  - file12.ext
-- file_in_root.ext
-- README.md
-- dir3
+Welcome to my awesome project! This repository contains code related to XYZ. Feel free to explore and contribute.
+
+## Programming Languages
+
+- Python
+- Jupyter Notebook
+
+  ## Index
+  
+- Introduction
+- Installation
+- Usage
+- Contributing
+- License
+
+## Further Projects
+
+- TASK4 A
+- TASK5 B
+
+  ## Mini PROJECT 1
+
+- Mini PROJECT 1 mainflow.ipynb
+
+## Task 2
+
+- Task2 mainflow.ipynb
+
+## Task 3
+
+- Task3 mainflow.ipynb
+
+
